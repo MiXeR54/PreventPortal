@@ -1,0 +1,5 @@
+name: PreventPortal
+version: 1.0.0
+main: ru.mixer54.pp.PreventPortal
+description: Prevent Nether portal creation
+api-version: 1.15
